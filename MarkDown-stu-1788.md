@@ -6,6 +6,7 @@
 -内部链接2，页面内部跳转:[代码块](demo.md#代码块-demo)
 
 ###引用式链接
+[baidu][1]
 
 
 ###图片
@@ -36,8 +37,8 @@ console.log(a);
 
 
 <!---	下面是本文档中用到的链接 -->
-[百度]:http:www.baidu.com
-[baidu]:http:www.baidu.com
+
+[1]:https://www.baidu.com "baidu"
 [file]:file.md
 [代码块]:demo.md#代码块-demo
 
