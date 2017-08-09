@@ -20,8 +20,8 @@
 
 ### 南无阿弥陀佛
 
--name:chenweihua
--qq:1234567
--add:dfjkjdkfja
+- name:chenweihua
+- qq:1234567
+- add:dfjkjdkfja
 
 
